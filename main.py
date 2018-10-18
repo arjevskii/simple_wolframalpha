@@ -5,9 +5,9 @@ import os
 os.system('clear')
 
 #Input the api key here, should. Example -> ("G8YTHF-Y2967PT5H1")
-client= wolframalpha.Client("T8YRHK-W2952PT7Y6") #Input the api key here, should. Example.      wolframalpha.Client("G8YTHF-Y2967PT5H1")
+client= wolframalpha.Client("G8YTHF-Y2967PT5H1") #Input the api key here, should. Example.      wolframalpha.Client("G8YTHF-Y2967PT5H1")
 
-'''remove comment if the questions is pre-written
+'''remove comment if the question is pre-written like below
 input_string = "What is the weather in toronto today?"
 '''
 
